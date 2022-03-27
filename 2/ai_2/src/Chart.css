@@ -1,0 +1,9 @@
+.middle{
+    display: flex;
+    justify-content: center;
+}
+
+.full-sized{
+    width: 100%;
+    height: 100%;
+}
